@@ -6,7 +6,7 @@ avaliar tendências imobiliárias, realizar análises de mercado e apoiar a toma
 Para acessar o sistema clique no link abaixo:
 http://fourcrm.online/imobi
 
-**Realease features**
+**Funcionalidades da versão atual**
 
 - Módulo para visualização de levantameno imobiliário da cidade de Florianópolis.
 
