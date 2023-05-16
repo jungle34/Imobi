@@ -11,5 +11,6 @@ http://fourcrm.online/imobi
 - Módulo para visualização de levantameno imobiliário da cidade de Florianópolis.
 
 
-***Este repositório serve apenas para gerenciamento do código do sistema, o código não ira funcionar sem os dados***
-***Para acesso aos dados, entre em contato com o desenvolvedor***
+***Este repositório serve apenas para gerenciamento do código do sistema, o código não ira funcionar sem os dados.
+
+***Para acesso aos dados, entre em contato com o desenvolvedor.
